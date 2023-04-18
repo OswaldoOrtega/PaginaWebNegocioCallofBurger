@@ -1,0 +1,106 @@
+header{
+    background: grey;
+   width: 100%;
+}
+body{
+    background: #ffffff;
+}
+.panel{
+    width: 950px;
+    position: relative;
+    margin: 0 0 0 0;
+    color: white;
+}
+.logo{
+    width :90px;
+    height :60px;
+   border-radius: 100%;
+}
+
+nav li{
+    width: 50%;
+    display: inline;
+    margin: 0 0 80px 35px;
+    font-size: 30px;
+}
+nav ul{
+    position: absolute;
+    top: 20px;
+   right: 600px;
+    
+}
+nav img{
+    position: absolute;
+    top: 0px;
+    right: -400px;
+    
+}
+.anuncios{
+    float: left;
+    width: 100%;
+    height: 200px;
+    background: red;
+}
+.flecha{
+    float: left;
+    width: 10%;
+    height: 100px;
+  margin-top: 3%;
+}
+.nov{
+    float: left;
+    width: 100%;
+    height: 100px;
+    background: blue;
+}
+.mapa{
+    float: left;
+    width: 100%;
+    height: 150px;
+    background: green;
+}
+.ubi{
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+   
+}
+.ma{
+    float:right;
+    margin-right: 50px;
+}
+#teubi{
+    float: left;
+    font-size: 25px;
+    margin-top: 70px;
+   
+}
+.final{
+    float: left;
+    background-color: grey;
+    width: 100%;
+    height: 120px;
+}
+.copyr{
+    float: left;
+    padding-top: 3%;
+    padding: 40px;
+    font-size: 27px;
+    text-align: left;
+    color: white;
+    font-style: italic;
+}
+.fbc{
+    float: right;
+    width: 50px;
+    height: 50px;
+    margin: 25px 10% 0 0;
+    
+}
+.whats{
+    float: right;
+    width: 50px;
+    height: 50px;
+    margin: 25px 5% 0 0;
+}
